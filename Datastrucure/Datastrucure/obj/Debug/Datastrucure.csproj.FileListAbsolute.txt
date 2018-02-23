@@ -1,0 +1,7 @@
+D:\SourceCode\Datastructures\DataStructure\Datastrucure\Datastrucure\obj\Debug\Datastrucure.csprojResolveAssemblyReference.cache
+D:\SourceCode\Datastructures\DataStructure\Datastrucure\Datastrucure\obj\Debug\Datastrucure.csproj.CoreCompileInputs.cache
+D:\SourceCode\Datastructures\DataStructure\Datastrucure\Datastrucure\bin\Debug\Datastrucure.exe.config
+D:\SourceCode\Datastructures\DataStructure\Datastrucure\Datastrucure\bin\Debug\Datastrucure.exe
+D:\SourceCode\Datastructures\DataStructure\Datastrucure\Datastrucure\bin\Debug\Datastrucure.pdb
+D:\SourceCode\Datastructures\DataStructure\Datastrucure\Datastrucure\obj\Debug\Datastrucure.exe
+D:\SourceCode\Datastructures\DataStructure\Datastrucure\Datastrucure\obj\Debug\Datastrucure.pdb
